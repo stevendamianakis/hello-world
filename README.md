@@ -1,2 +1,3 @@
 # hello-world
-Hello world program.
+
+Steven Dam is my name and i love Maths. Or not?
